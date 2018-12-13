@@ -1,0 +1,15 @@
+.radius-extension{
+    height: 70px;
+      width: 140px;
+    background: blue;
+    border-radius: 75%;
+    border:1px solid black;
+}
+#grad1 {
+    background-image: repeating-linear-gradient(#FFFFE0, yellow 10%); 
+  }
+  header{
+      color:white;
+      padding-top: 20px;
+      padding-left: 10px;
+  }
